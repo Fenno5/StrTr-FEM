@@ -1,0 +1,43 @@
+# Temporäre Dateien von Editoren
+
+*.swp
+
+*.swo
+
+
+
+# Python Cache Ordner
+
+__pycache__/
+
+
+
+# Virtuelle Umgebung
+
+env/
+
+
+
+# Log-Dateien und Ausgaben
+
+logs/
+
+output/
+
+images/
+
+models/
+
+
+
+# Alle Dateien in experiments Ordner ignorieren
+
+experiments/
+
+
+
+# Sonstiges
+
+.DS_Store
+
+
